@@ -7,7 +7,7 @@ namespace WebShopV05
         public void MyCode()
         {
             // The FIRST line of code should be BELOW this line
-
+            abc
             double netPriceBook = 30;
             double netPriceDVD = 50;
             double netPriceGame = 100;
