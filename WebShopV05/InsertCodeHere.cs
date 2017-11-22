@@ -30,6 +30,7 @@ namespace WebShopV05
             {
                 Console.WriteLine($"Total cost including tax, shipping and credit card fee: {(totalPrice*0.9)*1.02} kr.");
             }
+            //LOUIS WAS HERE
 
             // This variable should contain the total price for the order
 
